@@ -1,4 +1,4 @@
-# JS-Projects
+# Web-Projects
 Below you can find a list of some of the projects I did while taking online web development courses.
 
 ## List of projects: ([Git](), [Demo]())
