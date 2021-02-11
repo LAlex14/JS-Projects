@@ -1,7 +1,7 @@
 # Web-Projects
 Below you can find a list of some of the projects I did while taking online web development courses.
 
-## List of projects: ([Git](), [Demo]())
+## List of projects: 
 * Pig game ([Git](https://github.com/LAlex14/JS-Projects/tree/main/pig-game), [Demo](http://lesanalexandru.site/pig-game/))
 * Expense tracker ([Git](https://github.com/LAlex14/JS-Projects/tree/main/expense-tracker), [Demo](http://lesanalexandru.site/expense-tracker/))
 * Form validator ([Git](https://github.com/LAlex14/JS-Projects/tree/main/form-validator), [Demo](http://lesanalexandru.site/form-validator/))
