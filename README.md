@@ -1,5 +1,5 @@
 # JS-Projects
-Below you can find a list of the projects I did while doing various online courses
+Below you can find a list of some of the projects I did while taking online web development courses.
 
 ## List of projects: ([Git](), [Demo]())
 * Pig game ([Git](https://github.com/LAlex14/JS-Projects/tree/main/pig-game), [Demo](http://lesanalexandru.site/pig-game/))
