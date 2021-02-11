@@ -1,4 +1,11 @@
 # JS-Projects
-projects i did during online courses
+Below you can find a list of the projects I did while doing various online courses
 
-[Google](https://www.google.com)
+## List of projects: ([Git](), [Demo]())
+* Pig game ([Git](https://github.com/LAlex14/JS-Projects/tree/main/pig-game), [Demo](http://lesanalexandru.site/pig-game/))
+* Expense tracker ([Git](https://github.com/LAlex14/JS-Projects/tree/main/expense-tracker), [Demo](http://lesanalexandru.site/expense-tracker/))
+* Form validator ([Git](https://github.com/LAlex14/JS-Projects/tree/main/form-validator), [Demo](http://lesanalexandru.site/form-validator/))
+* Movie seat booking ([Git](https://github.com/LAlex14/JS-Projects/tree/main/movie-seat-booking), [Demo](http://lesanalexandru.site/movie-seat-booking/))
+* DOM array methods ([Git](https://github.com/LAlex14/JS-Projects/tree/main/dom-array-methods), [Demo](http://lesanalexandru.site/movie-seat-booking/))
+* Modal menu slider ([Git](https://github.com/LAlex14/JS-Projects/tree/main/modal-menu-slider), [Demo](http://lesanalexandru.site/modal-menu-slider/))
+* Exchange rate ([Git](https://github.com/LAlex14/JS-Projects/tree/main/exchange-rate), [Demo](http://lesanalexandru.site/exchange-rate/))
